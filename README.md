@@ -10,7 +10,7 @@ Association rules can be measured by metrics such as support, confidence, and li
 - Importing the Libraries and Reading the dataset
 - Pre-Processing the data
 - Applying the Apriori Algorithm
--  different support and confidence values.
+  -  different support and confidence values.
 - Visualizations
   
 ### Packages Used
